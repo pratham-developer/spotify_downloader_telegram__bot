@@ -14,7 +14,7 @@ spotify = spotipy.Spotify(
                                                         client_secret='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'))
 genius = lyricsgenius.Genius('biZZReO7F98mji5oz3cE0FiIG73Hh07qoXSIzYSGNN3GBsnY-eUrPAVSdJk_0_de')
 
-token = 'token bot'
+token = '2118618872:AAFCprXSJUwX2BnPzEfFRDRPy80koKWBsvU'
 bot = telepot.Bot(token)
 
 
