@@ -10,8 +10,8 @@ import lyricsgenius
 import telepot
 
 spotify = spotipy.Spotify(
-    client_credentials_manager=SpotifyClientCredentials(client_id='a145db3dcd564b9592dacf10649e4ed5',
-                                                        client_secret='389614e1ec874f17b8c99511c7baa2f6'))
+    client_credentials_manager=SpotifyClientCredentials(client_id='927488046824-mcni5edg8p66hdr1l5afdqdn5se6snig.apps.googleusercontent.com',
+                                                        client_secret='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'))
 genius = lyricsgenius.Genius('biZZReO7F98mji5oz3cE0FiIG73Hh07qoXSIzYSGNN3GBsnY-eUrPAVSdJk_0_de')
 
 token = 'token bot'
